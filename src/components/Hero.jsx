@@ -2,7 +2,7 @@
   return (
     <div id="home" className="hero">
       <div className="hero-content">
-        <h1>Saakashaswal</h1>
+        <h1>S.aakash_aswal</h1>
         <p>Full-Stack Developer | Web Designer | Creative Artist</p>
         <div className="buttons">
           <a href="#projects" className="btn btn-primary">View My Work</a>
