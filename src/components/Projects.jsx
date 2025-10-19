@@ -1,11 +1,11 @@
 function Projects() {
   const projects = [
     { title: 'Tic-Tac-Toe Game', description: 'An fully functional tic tac toe game with playing bot.', tech: ['vallina js', 'bootstrap'], icon: <img src="tic-tac-toe-game-svgrepo-com.svg" height={"200px"} />, className: 'p1', github: 'https://github.com/s-aakash2026/',
-      demo: 'https:/s-aakash2026.github.io/advance-tic-tac-toe/' },
+      demo: 'https:/s-aakash2026.github.io/advance-tic-tac-toe' },
     {
       title: 'To-Do-List', description: 'A simple to-do Website', tech: ['CSS3', 'JavaScript'], icon: <img src="to-do-list-svgrepo-com.svg" height={"200px"} />, className: 'p2' ,
-      github: 'https://github.com/s-aakash2026/',
-      demo: 'https:/s-aakash2026.github.io/To-do-list-/'
+      demo: 'https:/s-aakash2026.github.io/To-do-list-',
+      github: 'https://github.com/s-aakash2026/'
 
     },
 
