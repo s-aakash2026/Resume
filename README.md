@@ -1,3 +1,13 @@
+# 🌟 Featured Project
+
+## [Shop-Right - E-Commerce Website](https://velvety-bunny-ba62d6.netlify.app)
+
+A professional, modern e-commerce website for sustainable bamboo kitchenware. Built with React, GSAP animations, Tailwind CSS, and deployed on Netlify. This project showcases modern web development practices and production-ready code.
+
+**[🔗 Live Website](https://velvety-bunny-ba62d6.netlify.app) | [📂 GitHub Repo](https://github.com/s-aakash2026/shop-right)**
+
+---
+
 # Shop-Right - E-Commerce Website
 
 ## 🎯 Project Overview
