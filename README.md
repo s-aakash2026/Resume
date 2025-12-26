@@ -1,16 +1,48 @@
-# React + Vite
+# Shop-Right - E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎯 Project Overview
 
-Currently, two official plugins are available:
+A professional, modern e-commerce website for sustainable bamboo kitchenware. Built with React, featuring a clean design, smooth animations, and responsive layout optimized for all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📱 Links
 
-## React Compiler
+- **Live Website:** https://velvety-bunny-ba62d6.netlify.app
+- **GitHub Repository:** https://github.com/s-aakash2026/shop-right
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
+- React 18
+- Vite (Build Tool)
+- GSAP (Animations)
+- Tailwind CSS (Styling)
+- DaisyUI (UI Components)
+- React Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Hosting & Deployment
+- Netlify (Auto-deployment from GitHub)
+- HTTPS/SSL Secured
+- Global CDN
+
+## ✨ Features
+
+- ✅ Professional Navigation Bar with Search
+- ✅ Hero Section with GSAP Animations
+- ✅ Product Grid with 8 Sustainable Products
+- ✅ Product Cards with Ratings & Pricing
+- ✅ Amazon-Inspired Design Elements
+- ✅ Brand Story Section
+- ✅ Newsletter Subscription Footer
+- ✅ 100% Responsive (Mobile, Tablet, Desktop)
+- ✅ Production-Ready on Netlify
+
+## 🚀 Deployment
+
+- Automatically deployed from GitHub
+- Netlify Auto-deploying on every push to main
+- HTTPS/SSL Secured
+- Global CDN for fast load times
+
+---
+
+**Last Updated:** December 26, 2025
